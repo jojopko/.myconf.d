@@ -1,0 +1,2 @@
+[general]
+import = [ "~/.myconf.d/alacritty.d/base.toml" ]
